@@ -12,7 +12,7 @@ const Newsletter = () => {
       <section className="text-gray-600 body-font">
         <div className="container px-5 py-24 mx-auto flex flex-wrap items-center">
           <div className="lg:w-3/5 md:w-1/2 md:pr-16 lg:pr-0 pr-0">
-            <h1 className="title-font font-bold text-3xl text-gray-900">Subscribe to newsletter</h1>
+            <h1 className="title-font font-bold text-3xl text-white">Subscribe to newsletter</h1>
             <p className="leading-relaxed font-semibold mt-4 mb-0">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,</p>
             <br className="hidden lg:inline-block"/>
             <h1 className='font-semibold mt-0'> there live the blind texts</h1>
