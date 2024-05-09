@@ -20,7 +20,7 @@ const Hero = () => {
     </div>
     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
       <Image
-            src="/solution.jpg"
+            src="/banner.jpg"
             alt="Description of the image"
             width={720}
             height={600}
